@@ -1,0 +1,32 @@
+img{
+    width: 500px ;
+    height:650px ;
+    position: absolute;
+    left: 700px;
+    top: 150px;
+    border-radius: 30px;
+    
+}
+body{
+    background-color: rgb(19, 2, 29)
+    
+}
+h1{
+    color: rgb(251, 253, 255) ;
+    position: absolute;
+   left: 650px;
+    top: 800px;
+    text-align: center;
+    
+}
+h5{
+    
+    color: rgb(251, 253, 255) ;
+    position: absolute;
+   left: 650px;
+    top: 860px;
+    text-align: center;
+    
+    
+}
+
